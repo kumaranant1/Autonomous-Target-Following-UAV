@@ -19,5 +19,5 @@ This Proposal covers the approach to track an Object/Target through unmanned aer
 - 2 week : Recognise, Lock, & Follow the target
 - 2 week : Avoid Obstacle if encountered & Simulate every thing
 ## Team :
-- Team Name : 9/11
-- Members : Kumar Anant, Kislay Arya, Tanishka Rahate, Ujjwal Kumar, Abhinandh
+- **Team Name : 9/11**
+- **Members : Kumar Anant, Kislay Arya, Tanishka Rahate, Ujjwal Kumar, Abhinandh**
