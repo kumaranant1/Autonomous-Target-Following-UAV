@@ -8,10 +8,10 @@ This Proposal covers the approach to track an Object/Target through unmanned aer
   - Avoid Obstacles while following the Aruco Marker
 ---
 * Checkpoint 2
-- Algorithm for Object/Target Detection 
-- Recognise and Lock the Target
-- Follow the specified Target if detected in the frame
-- Avoid Obstacles if encountered
+  - Algorithm for Object/Target Detection 
+  - Recognise and Lock the Target
+  - Follow the specified Target if detected in the frame
+  - Avoid Obstacles if encountered
 ## Timeline :
 - 1 week: Detect Aruco Marker & Follow it
 - 1 week : Avoid Obstacle while following Aruco Marker
